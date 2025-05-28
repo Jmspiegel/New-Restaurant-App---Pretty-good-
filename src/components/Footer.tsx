@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* About */}
           <div>
-            <h3 className="text-xl font-semibold mb-4">XBesh Restaurant</h3>
+            <h3 className="text-xl font-semibold mb-4">FeedMeNow-Basic</h3>
             <p className="text-gray-400 mb-4">
               Serving delicious meals made with fresh ingredients and love since 2023.
             </p>
@@ -53,7 +53,7 @@ export default function Footer() {
               <li>123 Restaurant Street</li>
               <li>Foodville, FD 12345</li>
               <li>Phone: (123) 456-7890</li>
-              <li>Email: info@xbeshrestaurant.com</li>
+              <li>Email: info@feedmenow-basic.com</li>
             </ul>
           </div>
           
@@ -69,7 +69,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {currentYear} XBesh Restaurant. All rights reserved.</p>
+          <p>&copy; {currentYear} FeedMeNow-Basic. All rights reserved.</p>
         </div>
       </div>
     </footer>
